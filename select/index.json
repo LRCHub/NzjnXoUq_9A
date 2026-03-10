@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "NINJA SOUL",
+  "base_artist": "GEEKS",
+  "createdAt": "2026-03-10T04:40:37.997853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NINJA SOUL",
+      "artist": "Geeks",
+      "has_synced": true,
+      "path": "select/01_NINJA_SOUL_Geeks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NINJA SOUL",
+      "artist": "GEEKS",
+      "has_synced": false,
+      "path": "select/pl_01_NINJA_SOUL_GEEKS.txt"
+    }
+  ]
+}
